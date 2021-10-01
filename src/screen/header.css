@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+}
+.heading {
+  font-size: 1rem;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0px 30px;
+  color: black;
+  background-color: rgb(254, 207, 12);
+  box-decoration-break: clone;
+}
